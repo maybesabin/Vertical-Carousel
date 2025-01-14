@@ -27,8 +27,8 @@ To run this project locally, follow these steps:
 
 ## Technology Choices and Rationale
 
-### **HTML:**
-### **CSS:**
-### **JavaScript:**
+## **HTML**
+## **CSS**
+## **JavaScript**
 
 ---
